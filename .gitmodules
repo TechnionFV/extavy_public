@@ -1,0 +1,21 @@
+[submodule "abc"]
+	path = abc
+	url = https://github.com/berkeley-abc/abc.git
+[submodule "avy"]
+	path = avy
+	url = https://github.com/TechnionFV/avy_public.git
+[submodule "btor2tools"]
+	path = btor2tools
+	url = https://github.com/yvizel/btor2tools.git
+[submodule "glucose"]
+	path = glucose
+	url = https://github.com/yvizel/glucose-3-drup.git
+[submodule "muser2"]
+	path = muser2
+	url = https://bitbucket.org/arieg/muser2.git
+[submodule "minisat"]
+	path = minisat
+	url = git@bitbucket.org:arieg/minisat.git
+[submodule "cadical"]
+	path = cadical
+	url = https://github.com/TechnionFV/cadical_itp.git
