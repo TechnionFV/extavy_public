@@ -15,7 +15,7 @@
 	url = https://bitbucket.org/arieg/muser2.git
 [submodule "minisat"]
 	path = minisat
-	url = git@bitbucket.org:arieg/minisat.git
+	url = https://bitbucket.org/arieg/minisat.git
 [submodule "cadical"]
 	path = cadical
 	url = https://github.com/TechnionFV/cadical_itp.git
